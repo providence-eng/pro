@@ -1,0 +1,14 @@
+.container{
+    border: 1px;
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    background-color: gray;
+}
+.element{
+    border: 1px solid yellow;
+    background-color: blue;
+    height: 100px;
+    width: 80%;
+    border: 80vw;
+}
